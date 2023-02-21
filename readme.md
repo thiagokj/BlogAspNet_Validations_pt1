@@ -1,9 +1,9 @@
 ﻿# BlogAspNet MVC
 
 Projeto para revisão de conceito e aprendizado, 
-sendo continuidade de outros projetos já publicados.
+seguindo a linha de refatoração do projeto [TodoAspNet](https://github.com/thiagokj/FirstTodoAspNetAPI)
 
-Alguns exemplos com MVC e MVVM.
+Alguns exemplos iniciais sobre arquiteturas MVC e MVVM.
 
 ## Nomeclatura de Endpoints
 
